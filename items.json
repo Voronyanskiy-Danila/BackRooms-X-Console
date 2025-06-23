@@ -1,0 +1,30 @@
+[
+    {
+        "type": "bottle",
+        "character": "B",
+        "color": 14,
+        "effect": 5,
+        "auto_use": true
+    },
+    {
+        "type": "bat",
+        "character": "!",
+        "color": 13,
+        "duration": 10,
+        "auto_use": false
+    },
+    {
+        "type": "almond_water",
+        "character": "W",
+        "color": 11,
+        "effect": 30,
+        "auto_use": false
+    },
+    {
+        "type": "ink",
+        "character": "I",
+        "color": 5,
+        "duration": 5,
+        "auto_use": false
+    }
+]
